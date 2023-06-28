@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class task_03 {
+public class task_01_03 {
     public static void main(String[] args) {
         // Вывод простых чисел от 1 до 1000.
         PrimeNumbers();
