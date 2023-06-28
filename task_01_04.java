@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class task_04 {
+public class task_01_04 {
     public static void main(String[] args) {
         // Простой калькулятор.
         Calculator();
