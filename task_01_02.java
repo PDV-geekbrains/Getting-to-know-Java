@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class task_02 {
+public class task_01_02 {
     public static void main(String[] args) {
         // Вычисление факториала.
         Factorial();
