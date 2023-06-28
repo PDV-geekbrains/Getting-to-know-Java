@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class task_01-01 {
+public class task_01_01 {
     public static void main(String[] args) {
         // Вычисление суммы N чисел.
         Sum();
