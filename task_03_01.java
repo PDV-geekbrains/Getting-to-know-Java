@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;
@@ -7,7 +6,6 @@ import java.util.Random;
 public class task_03_01 {
     public static void main(String[] args) {
         int listLength = GetListLength();
-
         if (listLength != -1) {
             ArrayList<Integer> listOfInts = GetList(listLength);
             System.out.println(listOfInts);
@@ -20,7 +18,6 @@ public class task_03_01 {
         } else {
             System.out.println("Введите число больше 0.");
         }
-        
     }
     /** Получает длину списка. */
     static int GetListLength() {
