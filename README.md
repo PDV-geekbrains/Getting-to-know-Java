@@ -1,7 +1,7 @@
 # Знакомство с языком Java
 
 ### Урок 3. Коллекции JAVA: Введение
-* [Задача 1]()
+* [Задача 1](https://github.com/PDV-geekbrains/Getting-to-know-Java/blob/master/task_03_01.java)
 
 ### Урок 2. Почему вы не можете не использовать API
 * [Задача 1](https://github.com/PDV-geekbrains/Getting-to-know-Java/blob/master/task_02_01.java)
