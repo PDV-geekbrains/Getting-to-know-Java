@@ -1,8 +1,8 @@
 # Знакомство с языком Java
 
 ### Урок 4. Хранение и обработка данных ч1: приоритетные коллекции
-* [Задача 1]()
-* [Задача 2]()
+* [Задача 1](https://github.com/PDV-geekbrains/Getting-to-know-Java/blob/master/task_04_01.java)
+* [Задача 2](https://github.com/PDV-geekbrains/Getting-to-know-Java/blob/master/task_04_02.java)
 
 ### Урок 3. Коллекции JAVA: Введение
 * [Задача 1](https://github.com/PDV-geekbrains/Getting-to-know-Java/blob/master/task_03_01.java)
