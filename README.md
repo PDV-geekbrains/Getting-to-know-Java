@@ -2,7 +2,7 @@
 
 ### Урок 5. Хранение и обработка данных ч2: множество коллекций Map
 
-* [Задача 1]()
+* [Задача 1](https://github.com/PDV-geekbrains/Getting-to-know-Java/blob/master/task_05_01.java)
 
 ### Урок 4. Хранение и обработка данных ч1: приоритетные коллекции
 * [Задача 1](https://github.com/PDV-geekbrains/Getting-to-know-Java/blob/master/task_04_01.java)
